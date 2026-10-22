@@ -1,0 +1,597 @@
+﻿24 matches found: 
+<match path=C:\Users\m303\Desktop\115_1_C_Sharp\115_10_15\Tutorial 3-1\Birth Date String\Birth Date String\Properties\AssemblyInfo.cs>
+    File: `115_10_15/Tutorial 3-1/Birth Date String/Birth Date String/Properties/AssemblyInfo.cs`
+```c#
+/*...*/using System.Reflection;
+using System.Runtime.CompilerServices;
+using System.Runtime.InteropServices;
+
+// General Information about an assembly is controlled through the following 
+// set of attributes. Change these attribute values to modify the information
+// associated with an assembly.
+[assembly: AssemblyTitle("Birth Date String")]
+[assembly: AssemblyDescription("")]
+[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyCompany("Microsoft")]
+[assembly: AssemblyProduct("Birth Date String")]
+[assembly: AssemblyCopyright("Copyright © Microsoft 2010")]
+[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCulture("")]
+
+// Setting ComVisible to false makes the types in this assembly not visible 
+// to COM components.  If you need to access a type in this assembly from 
+// COM, set the ComVisible attribute to true on that type.
+[assembly: ComVisible(false)]
+
+// The following GUID is for the ID of the typelib if this project is exposed to COM
+[assembly: Guid("d57bac98-29fc-48c5-96b4-1c310094bfb9")]
+
+// Version information for an assembly consists of the following four values:
+//
+/*...*/
+```
+</match>
+<match path=C:\Users\m303\Desktop\115_1_C_Sharp\115_10_15\Tutorial 3-1\Birth Date String\Birth Date String\Properties\AssemblyInfo.cs>
+    // Lines 26 to 36
+</match>
+<match path=C:\Users\m303\Desktop\115_1_C_Sharp\115_1_C_Sharp_Tutorial-main\115_1_C_Sharp_Tutorial-main\Chap3\Tutorial 3-4\Test Average\Test Average\Properties\AssemblyInfo.cs>
+    File: `...1_C_Sharp_Tutorial-main/115_1_C_Sharp_Tutorial-main/Chap3/Tutorial 3-4/Test Average/Test Average/Properties/AssemblyInfo.cs`
+```c#
+/*...*/using System.Reflection;
+using System.Runtime.CompilerServices;
+using System.Runtime.InteropServices;
+
+// General Information about an assembly is controlled through the following 
+// set of attributes. Change these attribute values to modify the information
+// associated with an assembly.
+[assembly: AssemblyTitle("Test Average")]
+[assembly: AssemblyDescription("")]
+[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyCompany("Microsoft")]
+[assembly: AssemblyProduct("Test Average")]
+[assembly: AssemblyCopyright("Copyright © Microsoft 2010")]
+[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCulture("")]
+
+// Setting ComVisible to false makes the types in this assembly not visible 
+// to COM components.  If you need to access a type in this assembly from 
+// COM, set the ComVisible attribute to true on that type.
+[assembly: ComVisible(false)]
+
+// The following GUID is for the ID of the typelib if this project is exposed to COM
+[assembly: Guid("c89a6e28-2a0a-4677-8775-bf551eb10d06")]
+/*...*/
+```
+</match>
+<match path=C:\Users\m303\Desktop\115_1_C_Sharp\115_10_15\Tutorial 3-1\Birth Date String\Birth Date String\obj\x86\Debug\Birth Date String.csproj.FileListAbsolute.txt>
+    // Lines 24 to 28
+</match>
+<match path=C:\Users\m303\Desktop\115_1_C_Sharp\115_1_C_Sharp_Tutorial-main\115_1_C_Sharp_Tutorial-main\Chap3\Tutorial 3-1\Birth Date String\Birth Date String\obj\x86\Debug\Birth Date String.csproj.FileListAbsolute.txt>
+    // Lines 32 to 33
+</match>
+<match path=C:\Users\m303\Desktop\115_1_C_Sharp\115_10_15\Tutorial 3-1\Birth Date String\Birth Date String\Form1.cs>
+    // Lines 14 to 71
+</match>
+<match path=C:\Users\m303\Desktop\115_1_C_Sharp\115_10_15\Tutorial 3-1\Birth Date String\Birth Date String\Form1.cs>
+    // Lines 14 to 71
+</match>
+<match path=C:\Users\m303\Desktop\115_1_C_Sharp\115_10_01\Tutorial2_4\Tutorial2_4\Form1.cs>
+    File: `115_10_01/Tutorial2_4/Tutorial2_4/Form1.cs`
+```c#
+/*...*/using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Tutorial2_4
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\m303\Desktop\115_1_C_Sharp\115_10_01\Tutorial2_4\Tutorial2_4\Form1.cs>
+    File: `115_10_01/Tutorial2_4/Tutorial2_4/Form1.cs`
+```c#
+/*...*/using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Tutorial2_4
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\m303\Desktop\115_1_C_Sharp\115_1_C_Sharp_Tutorial-main\115_1_C_Sharp_Tutorial-main\Chap3\Tutorial 3-5\Change Counter\Change Counter\Program.cs>
+    File: `..._1_C_Sharp_Tutorial-main/115_1_C_Sharp_Tutorial-main/Chap3/Tutorial 3-5/Change Counter/Change Counter/Program.cs`
+```c#
+/*...*/using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Windows.Forms;
+
+namespace Change_Counter
+{
+    static class Program
+    {
+        /// <summary>
+        /// The main entry point for the application.
+        /// </summary>
+        [STAThread]
+        static void Main()
+        {
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new Form1());
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\m303\Desktop\115_1_C_Sharp\115_09_17\Week1_Test\Week1_Test\Form1.cs>
+    File: `115_09_17/Week1_Test/Week1_Test/Form1.cs`
+```c#
+namespace Week1_Test
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\m303\Desktop\115_1_C_Sharp\115_09_17\Week1_Test\Week1_Test\Form1.cs>
+    File: `115_09_17/Week1_Test/Week1_Test/Form1.cs`
+```c#
+namespace Week1_Test
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\m303\Desktop\115_1_C_Sharp\115_10_01\Tutorial2_4\Tutorial2_4\Program.cs>
+    File: `115_10_01/Tutorial2_4/Tutorial2_4/Program.cs`
+```c#
+/*...*/using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Tutorial2_4
+{
+    internal static class Program
+    {
+        /// <summary>
+        /// 應用程式的主要進入點。
+        /// </summary>
+        [STAThread]
+        static void Main()
+        {
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new Form1());
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\m303\Desktop\115_1_C_Sharp\115_10_08\Tutorial2_4\Tutorial2_4\Program.cs>
+    File: `115_10_08/Tutorial2_4/Tutorial2_4/Program.cs`
+```c#
+/*...*/using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Tutorial2_4
+{
+    internal static class Program
+    {
+        /// <summary>
+        /// 應用程式的主要進入點。
+        /// </summary>
+        [STAThread]
+        static void Main()
+        {
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new Form1());
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\m303\Desktop\115_1_C_Sharp\115_10_08\Tutorial2_5\Tutorial2_5\Program.cs>
+    File: `115_10_08/Tutorial2_5/Tutorial2_5/Program.cs`
+```c#
+/*...*/using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Tutorial2_5
+{
+    internal static class Program
+    {
+        /// <summary>
+        /// 應用程式的主要進入點。
+        /// </summary>
+        [STAThread]
+        static void Main()
+        {
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new Form1());
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\m303\Desktop\115_1_C_Sharp\115_09_24\Tutorial_2_2\Tutorial_2_2\Form1.cs>
+    File: `115_09_24/Tutorial_2_2/Tutorial_2_2/Form1.cs`
+```c#
+/*...*/using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Tutorial_2_2
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("SHU大革命");
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\m303\Desktop\115_1_C_Sharp\115_09_24\Tutorial_2_2\Tutorial_2_2\Form1.cs>
+    File: `115_09_24/Tutorial_2_2/Tutorial_2_2/Form1.cs`
+```c#
+/*...*/using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Tutorial_2_2
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("SHU大革命");
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\m303\Desktop\115_1_C_Sharp\115_09_24\Tutorial_2_2\Tutorial_2_2\Program.cs>
+    File: `115_09_24/Tutorial_2_2/Tutorial_2_2/Program.cs`
+```c#
+/*...*/using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Tutorial_2_2
+{
+    internal static class Program
+    {
+        /// <summary>
+        /// 應用程式的主要進入點。
+        /// </summary>
+        [STAThread]
+        static void Main()
+        {
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new Form1());
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\m303\Desktop\115_1_C_Sharp\115_10_01\Tutorial2_3\Tutorial2_3\Form1.cs>
+    File: `115_10_01/Tutorial2_3/Tutorial2_3/Form1.cs`
+```c#
+/*...*/using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Tutorial2_3
+{
+    public partial class translateLabel : Form
+    {
+        public translateLabel()
+        {
+            InitializeComponent();
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void label5_Click(object sender, EventArgs e)
+        {
+            translateLabel2.Text = "Buongiorno";
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+            translateLabel2.Text = "Buenos días";
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+            translateLabel2.Text = "Guten Morgen";
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\m303\Desktop\115_1_C_Sharp\115_10_01\Tutorial2_3\Tutorial2_3\Program.cs>
+    File: `115_10_01/Tutorial2_3/Tutorial2_3/Program.cs`
+```c#
+/*...*/using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Tutorial2_3
+{
+    internal static class Program
+    {
+        /// <summary>
+        /// 應用程式的主要進入點。
+        /// </summary>
+        [STAThread]
+        static void Main()
+        {
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new translateLabel());
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\m303\Desktop\115_1_C_Sharp\115_10_01\Tutorial2_3\Tutorial2_3\Program.cs>
+    File: `115_10_01/Tutorial2_3/Tutorial2_3/Program.cs`
+```c#
+/*...*/using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Tutorial2_3
+{
+    internal static class Program
+    {
+        /// <summary>
+        /// 應用程式的主要進入點。
+        /// </summary>
+        [STAThread]
+        static void Main()
+        {
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new translateLabel());
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\m303\Desktop\115_1_C_Sharp\115_10_08\Tutorial2_4\Tutorial2_4\Form1.cs>
+    File: `115_10_08/Tutorial2_4/Tutorial2_4/Form1.cs`
+```c#
+/*...*/using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Tutorial2_4
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void countryLabel_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void finlandPictureBox_Click(object sender, EventArgs e)
+        {
+            countryLabel.Text = "芬蘭";
+        }
+
+        private void francePictureBox_Click(object sender, EventArgs e)
+        {
+            countryLabel.Text = "法國";
+        }
+
+        private void germanPictureBox_Click(object sender, EventArgs e)
+        {
+            countryLabel.Text = "德國";
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\m303\Desktop\115_1_C_Sharp\115_1_C_Sharp_Tutorial-main\115_1_C_Sharp_Tutorial-main\Chap3\Tutorial 3-4\Test Average\Test Average\Form1.cs>
+    File: `115_1_C_Sharp_Tutorial-main/115_1_C_Sharp_Tutorial-main/Chap3/Tutorial 3-4/Test Average/Test Average/Form1.cs`
+```c#
+/*...*/using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Test_Average
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void calculateButton_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void clearButton_Click(object sender, EventArgs e)
+        {
+            // Clear the input and output controls.
+            test1TextBox.Text = "";
+            test2TextBox.Text = "";
+            test3TextBox.Text = "";
+            averageLabel.Text = "";
+        }
+
+        private void exitButton_Click(object sender, EventArgs e)
+        {
+            // Close the form.
+            this.Close();
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\m303\Desktop\115_1_C_Sharp\115_1_C_Sharp_Tutorial-main\115_1_C_Sharp_Tutorial-main\Chap3\Tutorial 3-1\Birth Date String\Birth Date String\Form1.cs>
+    File: `...C_Sharp_Tutorial-main/115_1_C_Sharp_Tutorial-main/Chap3/Tutorial 3-1/Birth Date String/Birth Date String/Form1.cs`
+```c#
+/*...*/using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Birth_Date_String
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void showDateButton_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void clearButton_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void exitButton_Click(object sender, EventArgs e)
+        {
+            
+        }
+    }
+}
+
+```
+</match>
