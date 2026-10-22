@@ -42,3 +42,14 @@ C:\Users\m303\Desktop\115_1_C_Sharp_Tutorial-main\Chapter3\Tutorial 3-1\Birth Da
 C:\Users\m303\Desktop\115_1_C_Sharp_Tutorial-main\Chapter3\Tutorial 3-1\Birth Date String\Birth Date String\obj\x86\Debug\Birth Date String.exe
 C:\Users\m303\Desktop\115_1_C_Sharp_Tutorial-main\Chapter3\Tutorial 3-1\Birth Date String\Birth Date String\obj\x86\Debug\Birth Date String.pdb
 C:\Users\m303\Desktop\115_1_C_Sharp_Tutorial-main\Chapter3\Tutorial 3-1\Birth Date String\Birth Date String\obj\x86\Debug\Birth Date String.exe.config
+C:\Users\m303\Desktop\115_1_C_Sharp\115_10_15\Tutorial 3-1\Birth Date String\Birth Date String\bin\Debug\Birth Date String.exe.config
+C:\Users\m303\Desktop\115_1_C_Sharp\115_10_15\Tutorial 3-1\Birth Date String\Birth Date String\bin\Debug\Birth Date String.exe
+C:\Users\m303\Desktop\115_1_C_Sharp\115_10_15\Tutorial 3-1\Birth Date String\Birth Date String\bin\Debug\Birth Date String.pdb
+C:\Users\m303\Desktop\115_1_C_Sharp\115_10_15\Tutorial 3-1\Birth Date String\Birth Date String\obj\x86\Debug\Birth Date String.csproj.AssemblyReference.cache
+C:\Users\m303\Desktop\115_1_C_Sharp\115_10_15\Tutorial 3-1\Birth Date String\Birth Date String\obj\x86\Debug\Birth Date String.exe.config
+C:\Users\m303\Desktop\115_1_C_Sharp\115_10_15\Tutorial 3-1\Birth Date String\Birth Date String\obj\x86\Debug\Birth_Date_String.Form1.resources
+C:\Users\m303\Desktop\115_1_C_Sharp\115_10_15\Tutorial 3-1\Birth Date String\Birth Date String\obj\x86\Debug\Birth_Date_String.Properties.Resources.resources
+C:\Users\m303\Desktop\115_1_C_Sharp\115_10_15\Tutorial 3-1\Birth Date String\Birth Date String\obj\x86\Debug\Birth Date String.csproj.GenerateResource.cache
+C:\Users\m303\Desktop\115_1_C_Sharp\115_10_15\Tutorial 3-1\Birth Date String\Birth Date String\obj\x86\Debug\Birth Date String.csproj.CoreCompileInputs.cache
+C:\Users\m303\Desktop\115_1_C_Sharp\115_10_15\Tutorial 3-1\Birth Date String\Birth Date String\obj\x86\Debug\Birth Date String.exe
+C:\Users\m303\Desktop\115_1_C_Sharp\115_10_15\Tutorial 3-1\Birth Date String\Birth Date String\obj\x86\Debug\Birth Date String.pdb
