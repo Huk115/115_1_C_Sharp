@@ -20,7 +20,21 @@ namespace Friend_File
 
         private void writeNameButton_Click(object sender, EventArgs e)
         {
+            try
+            {
+                StreamWriter outputFile;
 
+               // outputFile = File.CreateText("Friend.txt");
+               outputFile = File.AppendText(@"C:\\Users\\m303\\Desktop\\Friend.txt");
+                outputFile.WriteLine(nameTextBox.Text);
+                outputFile.Close();
+
+                MessageBox.Show("姓名已寫入 Friend.txt 檔案");
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("發生錯誤"+ ex.Message);
+            }
         }
 
         private void exitButton_Click(object sender, EventArgs e)
