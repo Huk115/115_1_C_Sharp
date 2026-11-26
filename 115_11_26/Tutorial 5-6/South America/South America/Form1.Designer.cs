@@ -17,6 +17,7 @@
             {
                 components.Dispose();
             }
+
             base.Dispose(disposing);
         }
 
@@ -35,27 +36,46 @@
             // 
             // countriesListBox
             // 
+            this.countriesListBox.Font = new System.Drawing.Font(
+                "Microsoft JhengHei UI",
+                18F,
+                System.Drawing.FontStyle.Regular,
+                System.Drawing.GraphicsUnit.Point,
+                ((byte)(136)));
             this.countriesListBox.FormattingEnabled = true;
-            this.countriesListBox.Location = new System.Drawing.Point(37, 36);
+            this.countriesListBox.IntegralHeight = false;
+            this.countriesListBox.ItemHeight = 32;
+            this.countriesListBox.Location = new System.Drawing.Point(30, 85);
             this.countriesListBox.Name = "countriesListBox";
-            this.countriesListBox.Size = new System.Drawing.Size(171, 95);
+            this.countriesListBox.Size = new System.Drawing.Size(700, 220);
             this.countriesListBox.TabIndex = 0;
             // 
             // outputDescriptionLabel
             // 
-            this.outputDescriptionLabel.AutoSize = true;
-            this.outputDescriptionLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.outputDescriptionLabel.Location = new System.Drawing.Point(9, 9);
+            this.outputDescriptionLabel.Font = new System.Drawing.Font(
+                "Microsoft JhengHei UI",
+                18F,
+                System.Drawing.FontStyle.Bold,
+                System.Drawing.GraphicsUnit.Point,
+                ((byte)(136)));
+            this.outputDescriptionLabel.Location = new System.Drawing.Point(30, 25);
             this.outputDescriptionLabel.Name = "outputDescriptionLabel";
-            this.outputDescriptionLabel.Size = new System.Drawing.Size(157, 16);
+            this.outputDescriptionLabel.Size = new System.Drawing.Size(700, 45);
             this.outputDescriptionLabel.TabIndex = 1;
-            this.outputDescriptionLabel.Text = "南美洲的國家";
+            this.outputDescriptionLabel.Text = "南美洲國家";
+            this.outputDescriptionLabel.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // getCountriesButton
             // 
-            this.getCountriesButton.Location = new System.Drawing.Point(49, 150);
+            this.getCountriesButton.Font = new System.Drawing.Font(
+                "Microsoft JhengHei UI",
+                18F,
+                System.Drawing.FontStyle.Regular,
+                System.Drawing.GraphicsUnit.Point,
+                ((byte)(136)));
+            this.getCountriesButton.Location = new System.Drawing.Point(30, 335);
             this.getCountriesButton.Name = "getCountriesButton";
-            this.getCountriesButton.Size = new System.Drawing.Size(75, 39);
+            this.getCountriesButton.Size = new System.Drawing.Size(220, 65);
             this.getCountriesButton.TabIndex = 2;
             this.getCountriesButton.Text = "取得國家";
             this.getCountriesButton.UseVisualStyleBackColor = true;
@@ -63,28 +83,39 @@
             // 
             // exitButton
             // 
-            this.exitButton.Location = new System.Drawing.Point(130, 150);
+            this.exitButton.Font = new System.Drawing.Font(
+                "Microsoft JhengHei UI",
+                18F,
+                System.Drawing.FontStyle.Regular,
+                System.Drawing.GraphicsUnit.Point,
+                ((byte)(136)));
+            this.exitButton.Location = new System.Drawing.Point(510, 335);
             this.exitButton.Name = "exitButton";
-            this.exitButton.Size = new System.Drawing.Size(75, 39);
+            this.exitButton.Size = new System.Drawing.Size(220, 65);
             this.exitButton.TabIndex = 3;
-            this.exitButton.Text = "退出";
+            this.exitButton.Text = "離開";
             this.exitButton.UseVisualStyleBackColor = true;
             this.exitButton.Click += new System.EventHandler(this.exitButton_Click);
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(255, 206);
+            this.ClientSize = new System.Drawing.Size(760, 440);
             this.Controls.Add(this.exitButton);
             this.Controls.Add(this.getCountriesButton);
             this.Controls.Add(this.outputDescriptionLabel);
             this.Controls.Add(this.countriesListBox);
+            this.Font = new System.Drawing.Font(
+                "Microsoft JhengHei UI",
+                18F,
+                System.Drawing.FontStyle.Regular,
+                System.Drawing.GraphicsUnit.Point,
+                ((byte)(136)));
             this.Name = "Form1";
-            this.Text = "南美洲";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "南美洲國家";
             this.ResumeLayout(false);
-            this.PerformLayout();
-
         }
 
         #endregion
